@@ -37,7 +37,7 @@ I'm Manh Hung - [HungPam](https://www.facebook.com/manhhung.pham.31586) | Colleg
     <img src="https://img.shields.io/badge/TikTok-%40gun_in_boots-black?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.facebook.com/manhhung.pham.31586" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook - Hung-blue?style=for-the-badge&logo=facebook" />
+    <img src="https://img.shields.io/badge/Facebook - GunMoi-blue?style=for-the-badge&logo=facebook" />
   </a>
   <a href="https://www.instagram.com/hung511511/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40hugg_pamh-orange?style=for-the-badge&logo=instagram" />
