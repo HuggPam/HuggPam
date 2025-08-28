@@ -12,8 +12,8 @@
 <table>
 <tr>
 <td width="48%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HungPam&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungPam&layout=compact&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuggPam&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuggPam&layout=compact&hide_border=true&theme=radical" />
 </td>
 <td width="52%">
   <img alt="gif" align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300"/>
