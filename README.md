@@ -2,9 +2,9 @@
 I'm Manh Hung - [HuggPam](https://github.com/HuggPam) | College Student 🌱  
 <img align="right" width="200px" height="200px" alt="coding_gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🍜 Mình đam mê **mì tôm**, **game nhệ nhàng** và **ngủ trưa** như pro
-- 🎵 [Những bài nhạc mình thích nè ](https://open.spotify.com/playlist/0kgnLCo2v5zix7crJ4bhgY?si=683179b7d98549df)
-- ⚡ Fun fact: **Code ban đêm và ngủ quên:D**
+- 🍜 Mình đam mê **mì tôm**, **game nhệ nhàng** và **ngủ trưa** như pro 🫠
+- 🎵 [Những bài nhạc mình thích nè ](https://open.spotify.com/playlist/0kgnLCo2v5zix7crJ4bhgY?si=683179b7d98549df) 😎
+- ⚡ Fun fact: **Code ban đêm và ngủ quên 😇**
 
 ---
 
