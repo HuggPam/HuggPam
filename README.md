@@ -1,11 +1,11 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I'm Manh Hung - [HuggPam](https://github.com/HuggPam) | College Student 🌱  
+I'm **Manh Hung** - [HuggPam](https://github.com/HuggPam) | College Student 🌱  
 <img align="right" width="300px" height="300px" alt="coding_gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdpMWVucW01ejA4NmptZ21wM243NW1mNm9pOGNodWtjazl6MTNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOOyywoZerTGp90YPN/giphy.gif" />
 
 
 
-- 🍜 Mình đam mê **mì tôm**, **game nhệ nhàng** và **ngủ trưa** như pro 🫠
-- 🎵 [Những bài nhạc mình thích nè ](https://open.spotify.com/playlist/0kgnLCo2v5zix7crJ4bhgY?si=683179b7d98549df) 😎
+- 🍜 Mình đam mê **mì tôm**, **game nhẹ nhàng** và **ngủ trưa** như pro 🫠
+- 🎵 [**Những bài nhạc mình thích nè** ](https://open.spotify.com/playlist/0kgnLCo2v5zix7crJ4bhgY?si=683179b7d98549df) 😎
 - ⚡ Fun fact: **Code ban đêm và ngủ quên 😇**
 
 ---
