@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I'm Manh Hung - [HungPam](https://github.com/HungPam) | College Student 🌱  
+I'm Manh Hung - [HuggPam](https://github.com/HuggPam) | College Student 🌱  
 <img align="right" width="200px" height="200px" alt="coding_gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🍜 Mình đam mê **mì tôm**, **game nhệ nhàng** và **ngủ trưa** như pro
