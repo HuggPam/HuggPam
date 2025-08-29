@@ -1,4 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+[![GitHub followers](https://img.shields.io/github/followers/HuggPam?style=social)](https://github.com/HuggPam)
+[![GitHub stars](https://img.shields.io/github/stars/HuggPam?style=social)](https://github.com/HuggPam)
+
 I'm **Manh Hung** - [HuggPam](https://github.com/HuggPam) | College Student 🌱  
 <img align="right" width="300px" height="300px" alt="coding_gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdpMWVucW01ejA4NmptZ21wM243NW1mNm9pOGNodWtjazl6MTNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOOyywoZerTGp90YPN/giphy.gif" />
 
